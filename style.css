@@ -1,0 +1,25 @@
+body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    width: 100vw;
+    height: 100vh;
+    background-color: #f2f4f7;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-align: center;
+}
+
+.container{
+    width: 432px;
+    height: auto;
+    border: 1px solid #000;
+    background-color: #fff;
+    box-sizing: border-box;
+    border-radius: 6px;
+}
